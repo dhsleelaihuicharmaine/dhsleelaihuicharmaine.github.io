@@ -4,3 +4,4 @@ p{font-family:Comic Sans MS;}
 #grad {
   background: linear-gradient(to bottom right, red, yellow);
 }
+#p {background-color:rgb(255,0,0);opacity:0.6;}  /* red with opacity */
